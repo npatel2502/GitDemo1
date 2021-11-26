@@ -6,7 +6,8 @@ public class Sample1 {
 		
 		System.out.println("Hello World");
 		System.out.println("Good morning");
-		
+		System.out.println("Good afternoon");
+
 	}
 
 }
